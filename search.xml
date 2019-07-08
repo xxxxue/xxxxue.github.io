@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[(持续更新) C# 面试技术点、常见SQL技术点 和 解决高并发的相关技术]]></title>
+    <url>%2F2019%2F07%2F09%2F%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0-C-%E9%9D%A2%E8%AF%95%E6%8A%80%E6%9C%AF%E7%82%B9%E3%80%81%E5%B8%B8%E8%A7%81SQL%E6%8A%80%E6%9C%AF%E7%82%B9-%E5%92%8C-%E8%A7%A3%E5%86%B3%E9%AB%98%E5%B9%B6%E5%8F%91%E7%9A%84%E7%9B%B8%E5%85%B3%E6%8A%80%E6%9C%AF%2F</url>
+    <content type="text"><![CDATA[这篇博客 持续更新. 1&lt;table&gt;&lt;tr&gt;&lt;td bgcolor=yellow&gt;&lt;font face=&quot;微软雅黑&quot; color=green size=4&gt;方便小伙伴们学习与面试前的复习&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt; :laughing:文中的错误 :grimacing:更好的答案 :smirk:建议增加的知识点 :kissing:有更好的建议 … :heart: :heart:欢迎大家在评论区留言 :heart: :heart: @[toc] 更新日志:smile: 时间 更新内容 2019.06.20 :heavy_plus_sign:增加”常用轮子”栏目 2019.05.27 :heavy_plus_sign:增加”高并发系列”栏目 2019.05.16 :heavy_plus_sign:增加 “SQL优化” 栏目 2019.05.14 :heavy_plus_sign:增加 “目录” 2019.05.13 :o:初次更新 C 面试题:apple: 点击前往 —-&gt; C#面试题 常用轮子:pear:点击前往 —-&gt; C#/Java常用轮子 SQL Server SQL优化:grapes: 点击前往 —-&gt; SQL优化 SQL题:lemon: 点击前往 —-&gt;SQL题 高并发系列 缓存Redis:banana: 点击前往 —-&gt; Redis面试问答 消息队列RabbitMQ:watermelon: 点击前往 —-&gt; RabbitMQ面试问答]]></content>
+  </entry>
+  <entry>
     <title><![CDATA[Hello World]]></title>
     <url>%2F2019%2F07%2F08%2Fhello-world%2F</url>
     <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>

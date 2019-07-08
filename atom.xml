@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-07-08T13:14:40.427Z</updated>
+  <updated>2019-07-08T19:31:05.871Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>(持续更新) C# 面试技术点、常见SQL技术点 和 解决高并发的相关技术</title>
+    <link href="http://yoursite.com/2019/07/09/%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0-C-%E9%9D%A2%E8%AF%95%E6%8A%80%E6%9C%AF%E7%82%B9%E3%80%81%E5%B8%B8%E8%A7%81SQL%E6%8A%80%E6%9C%AF%E7%82%B9-%E5%92%8C-%E8%A7%A3%E5%86%B3%E9%AB%98%E5%B9%B6%E5%8F%91%E7%9A%84%E7%9B%B8%E5%85%B3%E6%8A%80%E6%9C%AF/"/>
+    <id>http://yoursite.com/2019/07/09/持续更新-C-面试技术点、常见SQL技术点-和-解决高并发的相关技术/</id>
+    <published>2019-07-09T01:09:00.000Z</published>
+    <updated>2019-07-08T19:31:05.871Z</updated>
+    
+    <content type="html"><![CDATA[<p>﻿<table><tr><td bgcolor="#7FFFD4"><font face="黑体" color="green" size="5">这篇博客 持续更新.</font></td></tr></table></p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;table&gt;&lt;tr&gt;&lt;td bgcolor=yellow&gt;&lt;font face=&quot;微软雅黑&quot; color=green size=4&gt;方便小伙伴们学习与面试前的复习&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</span><br></pre></td></tr></table></figure><ol><li><p>:laughing:文中的错误 </p></li><li><p>:grimacing:更好的答案</p></li><li><p>:smirk:建议增加的知识点</p></li><li><p>:kissing:有更好的建议</p></li><li><p>…</p></li></ol><p><font face="黑体" color="green" size="5"> :heart: :heart:欢迎大家在评论区留言 :heart: :heart: </font></p><hr><p>@[toc]</p><h1 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h1><p>:smile:</p><table><thead><tr><th>时间</th><th>更新内容</th></tr></thead><tbody><tr><td>2019.06.20</td><td>:heavy_plus_sign:增加”常用轮子”栏目</td></tr><tr><td>2019.05.27</td><td>:heavy_plus_sign:增加”高并发系列”栏目</td></tr><tr><td>2019.05.16</td><td>:heavy_plus_sign:增加 “SQL优化” 栏目</td></tr><tr><td>2019.05.14</td><td>:heavy_plus_sign:增加 “目录”</td></tr><tr><td>2019.05.13</td><td>:o:初次更新</td></tr></tbody></table><hr><h1 id="C"><a href="#C" class="headerlink" title="C"></a>C</h1><hr><h2 id="面试题"><a href="#面试题" class="headerlink" title="面试题"></a>面试题</h2><p>:apple:    <a href="https://blog.csdn.net/qq_37214567/article/details/90605400" target="_blank" rel="noopener">点击前往  —-&gt; C#面试题</a></p><h2 id="常用轮子"><a href="#常用轮子" class="headerlink" title="常用轮子"></a>常用轮子</h2><p>:pear:<a href="https://blog.csdn.net/qq_37214567/article/details/93026555" target="_blank" rel="noopener">点击前往  —-&gt; C#/Java常用轮子</a></p><hr><h1 id="SQL-Server"><a href="#SQL-Server" class="headerlink" title="SQL Server"></a>SQL Server</h1><hr><h2 id="SQL优化"><a href="#SQL优化" class="headerlink" title="SQL优化"></a>SQL优化</h2><p>:grapes:    <a href="https://blog.csdn.net/qq_37214567/article/details/90605816" target="_blank" rel="noopener">点击前往  —-&gt; SQL优化</a></p><h2 id="SQL题"><a href="#SQL题" class="headerlink" title="SQL题"></a>SQL题</h2><p>:lemon:    <a href="https://blog.csdn.net/qq_37214567/article/details/90605605" target="_blank" rel="noopener">点击前往  —-&gt;SQL题</a></p><hr><h1 id="高并发系列"><a href="#高并发系列" class="headerlink" title="高并发系列"></a>高并发系列</h1><hr><h2 id="缓存"><a href="#缓存" class="headerlink" title="缓存"></a>缓存</h2><h3 id="Redis"><a href="#Redis" class="headerlink" title="Redis"></a>Redis</h3><p>:banana:    <a href="https://blog.csdn.net/qq_37214567/article/details/90605896" target="_blank" rel="noopener">点击前往  —-&gt; Redis面试问答</a></p><hr><h2 id="消息队列"><a href="#消息队列" class="headerlink" title="消息队列"></a>消息队列</h2><h3 id="RabbitMQ"><a href="#RabbitMQ" class="headerlink" title="RabbitMQ"></a>RabbitMQ</h3><p>:watermelon:    <a href="https://blog.csdn.net/qq_37214567/article/details/90605973" target="_blank" rel="noopener">点击前往  —-&gt; RabbitMQ面试问答</a></p><hr>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;﻿&lt;table&gt;&lt;tr&gt;&lt;td bgcolor=&quot;#7FFFD4&quot;&gt;&lt;font face=&quot;黑体&quot; color=&quot;green&quot; size=&quot;5&quot;&gt;这篇博客 持续更新.&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/p&gt;
+&lt;figure class=&quot;highlight
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
